@@ -1,0 +1,22 @@
+.text1{
+    text-decoration: line-through;
+    font-weight:bold;
+}
+/* letter-spacing:3px;             this is used to give space between words */
+.text2{
+    background-color:yellow;
+    font-weight: bold;
+}
+.text3{
+    text-decoration:underline;
+}
+.text4{
+    background-color: yellow;
+}
+.text5{
+    background-color: yellow;
+    font-weight: bold;
+}
+.text6{
+    letter-spacing: 4px;
+}
